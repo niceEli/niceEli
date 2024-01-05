@@ -8,4 +8,4 @@
 - 📫 How to reach me: ... email
 - ⚡ Fun fact: ... i tried Linux but went back to windows because cs2 was at 30fps
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=niceeli-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=niceeli&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
